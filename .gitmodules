@@ -1,0 +1,78 @@
+[submodule "codes"]
+	path = codes
+	url = ../codes.git
+[submodule "government"]
+	path = government
+	url = ../government.git
+[submodule "ministerial"]
+	path = ministerial
+	url = ../ministerial.git
+[submodule "local-nur-sultan"]
+	path = local-nur-sultan
+	url = ../local-nur-sultan.git
+[submodule "local-astana"]
+	path = local-astana
+	url = ../local-astana.git
+[submodule "local-akmola"]
+	path = local-akmola
+	url = ../local-akmola.git
+[submodule "local-aktobe"]
+	path = local-aktobe
+	url = ../local-aktobe.git
+[submodule "local-almaty-oblast"]
+	path = local-almaty-oblast
+	url = ../local-almaty-oblast.git
+[submodule "local-almaty-city"]
+	path = local-almaty-city
+	url = ../local-almaty-city.git
+[submodule "local-atyrau"]
+	path = local-atyrau
+	url = ../local-atyrau.git
+[submodule "local-east-kazakhstan"]
+	path = local-east-kazakhstan
+	url = ../local-east-kazakhstan.git
+[submodule "local-zhambyl"]
+	path = local-zhambyl
+	url = ../local-zhambyl.git
+[submodule "local-west-kazakhstan"]
+	path = local-west-kazakhstan
+	url = ../local-west-kazakhstan.git
+[submodule "local-karaganda"]
+	path = local-karaganda
+	url = ../local-karaganda.git
+[submodule "local-kyzylorda"]
+	path = local-kyzylorda
+	url = ../local-kyzylorda.git
+[submodule "local-kostanay"]
+	path = local-kostanay
+	url = ../local-kostanay.git
+[submodule "local-mangystau"]
+	path = local-mangystau
+	url = ../local-mangystau.git
+[submodule "local-pavlodar"]
+	path = local-pavlodar
+	url = ../local-pavlodar.git
+[submodule "local-north-kazakhstan"]
+	path = local-north-kazakhstan
+	url = ../local-north-kazakhstan.git
+[submodule "local-turkestan"]
+	path = local-turkestan
+	url = ../local-turkestan.git
+[submodule "local-shymkent"]
+	path = local-shymkent
+	url = ../local-shymkent.git
+[submodule "local-abai"]
+	path = local-abai
+	url = ../local-abai.git
+[submodule "local-ulytau"]
+	path = local-ulytau
+	url = ../local-ulytau.git
+[submodule "local-zhetisu"]
+	path = local-zhetisu
+	url = ../local-zhetisu.git
+[submodule "local-joint"]
+	path = local-joint
+	url = ../local-joint.git
+[submodule "local-central"]
+	path = local-central
+	url = ../local-central.git
