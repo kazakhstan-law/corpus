@@ -7,9 +7,6 @@
 [submodule "ministerial"]
 	path = ministerial
 	url = ../ministerial.git
-[submodule "local-nur-sultan"]
-	path = local-nur-sultan
-	url = ../local-nur-sultan.git
 [submodule "local-astana"]
 	path = local-astana
 	url = ../local-astana.git
