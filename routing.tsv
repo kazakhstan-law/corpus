@@ -215617,6 +215617,7 @@ V2600040354	232231
 G26BSI0014B	232232	local-akmola	08-local-decisions/152-akmolinskoi-oblasti/15202000-burabaiskogo-raiona/2026/1104-ob-opredelenii-perechnia-prioritetnykh-napravlenii-raskhodov-mes-G26BSI0014B
 G26IS000548	232233		
 G26IS000560	232234	ministerial	07-ministerial/103052000000-mps/2026/1104-ob-utverzhdenii-professionalnykh-standartov-v-sfere-stroitelstva-G26IS000560
+G26U000191A	232235		
 G26IS000561	232236		
 G26F0000388	232237	ministerial	07-ministerial/103012000000-moa/2026/1103-ob-utverzhdenii-obraztsov-formennoi-odezhdy-so-znakami-razlichii-G26F0000388
 G26NT000174	232238		
@@ -215683,6 +215684,7 @@ V2600040370	232298
 V2600040371	232299		
 V2600040372	232300		
 V2600040373	232301		
+V2600040374	232302		
 V2600040375	232303	ministerial	07-ministerial/103047000000-ecogeo/2026/1106-ob-utverzhdenii-pravil-ustanovleniia-okhrannykh-zon-dlia-statsio-V2600040375
 V2600040377	232304		
 V2600040378	232305	ministerial	07-ministerial/joint/103036000000-103054000000/2026/1104-ob-utverzhdenii-pravil-finansirovaniia-proektov-tsifrovizatsii-v-V2600040378
@@ -215698,9 +215700,13 @@ G26M000191A	232314
 G26CK00184A	232315	government	06-government/153-aktiubinskoi-oblasti/2026/1102-o-ustanovlenii-publichnogo-servituta-G26CK00184A
 G26TI000298	232316		
 G26BCF0007B	232317	local-akmola	08-local-decisions/152-akmolinskoi-oblasti/15200400-akkolskogo-raiona/2026/1104-ob-opredelenii-perechnia-prioritetnykh-napravlenii-raskhodov-biu-G26BCF0007B
+V2600040380	232318		
 V2600040381	232319		
+V2600040385	232321		
 V2600040387	232322		
 V2600040390	232325	ministerial	07-ministerial/103010000000-dsm/2026/1109-ob-utverzhdenii-metodiki-rascheta-raskhodov-na-obuchenie-na-nauc-V2600040390
+G26RR000155	232326	ministerial	07-ministerial/103010000000-dsm/2026/1102-ob-opredelenii-perechnia-referens-laboratorii-osushchestvliaiush-G26RR000155
+P2600001001	232327		
 G26O0000405	232328	ministerial	07-ministerial/103007000000-emer/2026/1106-ob-utverzhdenii-pravil-po-organizatsii-sviazi-v-organakh-grazhda-G26O0000405
 G26BA10102A	232329	government	06-government/152-akmolinskoi-oblasti/2026/1001-ob-ustanovlenii-publichnogo-servituta-G26BA10102A
 G26BA11110A	232330	government	06-government/152-akmolinskoi-oblasti/2026/1106-ob-ustanovlenii-publichnogo-servituta-G26BA11110A
@@ -215725,5 +215731,28 @@ G26N000322A	232348
 G26SI00213A	232349	government	06-government/165-severo-kazakhstanskoi-oblasti/2026/1105-ob-utverzhdenii-pravil-obespecheniia-vozvratnosti-deneg-sobstven-G26SI00213A
 G24R000092M	232350	local-almaty-city	08-local-decisions/155-g-almaty/15500000-g-almaty/2024/0329-ob-utverzhdenii-polozheniia-o-gosudarstvennom-uchrezhdenii-reviz-G24R000092M
 G25R000225M	232351	local-almaty-city	08-local-decisions/155-g-almaty/15500000-g-almaty/2025/0709-o-voprosakh-prisvoeniia-naimenovanii-ulitsam-goroda-almaty-G25R000225M
+V2600040392	232356		
+G26NT000231	232359		
+G26RR000162	232360		
 G26BCH0010B	232361	local-akmola	08-local-decisions/152-akmolinskoi-oblasti/15200400-akkolskogo-raiona/2026/1104-ob-opredelenii-perechnia-prioritetnykh-napravlenii-raskhodov-biu-G26BCH0010B
 G26BJ10170A	232362	government	06-government/152-akmolinskoi-oblasti/2026/1107-ob-ustanovlenii-publichnogo-servituta-G26BJ10170A
+V2600040386	232363		
+V2600040396	232365	government	06-government/135-agentstvo-respubliki-kazakhstan-po-regulirovanii/2026/1110-ob-utverzhdenii-trebovanii-k-sisteme-vnutrennego-kontrolia-kazak-V2600040396
+G26E0000748	232368		
+V2600040400	232372	ministerial	07-ministerial/131000000000-atom-energiyasy/2026/1111-ob-utverzhdenii-pravil-formirovaniia-i-vedeniia-reestra-postavsh-V2600040400
+V2600040404	232375		
+V2600040407	232377		
+P2600001003	232381		
+G26NZA00130	232382	ministerial	07-ministerial/136001000000-biuro-natsionalnoi-statistiki/2026/1109-ob-utverzhdenii-pravil-provedeniia-analiza-statisticheskoi-deiat-G26NZA00130
+V26UI040383	232387		
+G26UP00748A	232388	government	06-government/166-turkestanskoi-oblasti/2026/1111-ob-utverzhdenii-koeffitsienta-zonirovaniia-v-zhetysaiskom-raione-G26UP00748A
+G26SF00291A	232389	government	06-government/165-severo-kazakhstanskoi-oblasti/2026/1112-ob-utverzhdenii-koeffitsientov-zonirovaniia-k-zon-uchityvaiushch-G26SF00291A
+G26NF00150A	232390		
+G26NF00149A	232391	government	06-government/162-kostanaiskoi-oblasti/2026/1109-ob-utverzhdenii-koeffitsientov-zonirovaniia-uchityvaiushchikh-me-G26NF00149A
+G26NE00194A	232392	government	06-government/162-kostanaiskoi-oblasti/2026/1112-ob-utverzhdenii-koeffitsientov-zonirovaniia-uchityvaiushchikh-me-G26NE00194A
+V2600040413	232393	ministerial	07-ministerial/103012000000-moa/2026/1112-o-vvedenii-zapreta-na-vvoz-iaits-kur-svezhikh-na-territoriiu-res-V2600040413
+G26M000206A	232394		
+G26SF00239A	232395	government	06-government/165-severo-kazakhstanskoi-oblasti/2026/0922-ob-otmene-postanovleniia-akimata-esilskogo-raiona-severo-kazakhs-G26SF00239A
+Z2600000012	232400		
+V26NN040414	232401	government	06-government/162-kostanaiskoi-oblasti/2026/1030-ob-utverzhdenii-pravil-obespecheniia-vozvratnosti-deneg-sobstven-V26NN040414
+G26SD00167A	232402		
